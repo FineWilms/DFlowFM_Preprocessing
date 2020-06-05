@@ -1,0 +1,10 @@
+###
+#interp = True/False then regular grid interpolation is conducted on 48 local cells, otherwise nearest neighbour (default: {False})
+#simultaneous = True/False-- if true then all data is interpolated at the same time across entire domain(default: {False})
+#steric = True/False -- if true then steric boundary will be created
+#tref = YYYY,MM,DD,hh,mm,ss (Reference time in DFlowFM model)
+###
+interp = True
+simultaneous = True
+steric = True
+tref = 2011,12,22,00,00,00

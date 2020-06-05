@@ -1,0 +1,9 @@
+###
+#FES = name of FES tide constituents
+#coords = boundingbox coordinates: lonmin, lonmax, latmin, latmax
+#pli = Name of polygon file that contains the coordinates at which boundaries are needed. Name only, no spaces.
+#out = name of output folder. Name only, no spaces.
+###
+FESpath = FES
+coords = -16, 16, 40, 80
+pli = OB_all_20181108.pli
